@@ -1,0 +1,40 @@
+{
+"pages":[
+  "pages/index/index",
+  "pages/two/two",
+  "pages/tree/tree"
+],
+"window": {
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTitleText": "一起玩耍",
+  "navigationBarTextStyle": "black"
+},
+"tabBar":{
+  "color": "#9E9E9E",
+  "selectedColor": "#f00",
+  "backgroundColor": "#fff",
+  "borderStyle": "#ccc",
+  "list":[
+    {
+      "pagePath": "pages/index/index",
+      "text": "景区" ,
+      "iconPath": "image/wechat.png",
+      "selectedIconPath": "image/wechat.png"
+      
+    },
+    {
+      "pagePath": "pages/two/two",
+      "text": "趋势",
+      "iconPath": "image/wechatHL.png",
+      "selectedIconPath": "image/wechatHL.png"
+    },
+    {
+      "pagePath": "pages/tree/tree",
+      "text": "我的",
+      "iconPath": "image/wechatt.png",
+      "selectedIconPath": "image/wechatt.png"
+    }
+  ]
+}
+}
