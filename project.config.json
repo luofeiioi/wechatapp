@@ -12,8 +12,9 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.98",
-	"appid": "touristappid",
-	"projectname": "Go",
+	"appid": "wx53606e680b9626b1",
+	"projectname": "xcxDate2",
+	"isGameTourist": false,
 	"condition": {
 		"search": {
 			"current": -1,

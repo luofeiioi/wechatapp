@@ -2,5 +2,19 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  color:yellow;
+}
+
+.userinfo-avatar {
+  width: 64rpx;
+  height: 64rpx;
+  margin: 10rpx;
+  border-radius: 25%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 50px;
 }

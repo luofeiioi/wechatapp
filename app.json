@@ -2,7 +2,8 @@
 "pages":[
   "pages/index/index",
   "pages/two/two",
-  "pages/tree/tree"
+  "pages/tree/tree",
+  "pages/tree/gog"
 ],
 "window": {
   "backgroundTextStyle": "light",
