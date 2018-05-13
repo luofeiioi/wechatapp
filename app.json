@@ -3,19 +3,27 @@
   "pages/index/index",
   "pages/two/two",
   "pages/tree/tree",
-  "pages/tree/gog"
+  "pages/tree/gog",
+  "pages/index/date/one/one",
+  "pages/index/date/two/two",
+  "pages/index/date/tree/tree",
+  "pages/index/date/four/four",
+  "pages/index/date/five/five",
+  "pages/index/date/six/six",
+  "pages/index/date/seven/seven",
+  "pages/index/date/eight/eight"
 ],
 "window": {
-  "backgroundTextStyle": "light",
-  "navigationBarBackgroundColor": "#fff",
-  "navigationBarTitleText": "一起玩耍",
-  "navigationBarTextStyle": "black"
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "印象临潼",
+  "navigationBarBackgroundColor": "#fbf9fe",
+  "backgroundColor": "#fbf9fe"
 },
 "tabBar":{
-  "color": "#9E9E9E",
-  "selectedColor": "#f00",
-  "backgroundColor": "#fff",
-  "borderStyle": "#ccc",
+  "color": "#dddddd",
+  "selectedColor": "#3cc51f",
+  "borderStyle": "black",
+  "backgroundColor": "#ffffff",
   "list":[
     {
       "pagePath": "pages/index/index",
@@ -24,12 +32,9 @@
       "selectedIconPath": "image/wechat.png"
       
     },
-    {
-      "pagePath": "pages/two/two",
-      "text": "趋势",
-      "iconPath": "image/wechatHL.png",
-      "selectedIconPath": "image/wechatHL.png"
-    },
+    
+
+    
     {
       "pagePath": "pages/tree/tree",
       "text": "我的",

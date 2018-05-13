@@ -1,5 +1,7 @@
 //js
-Page({
+Page(
+  {
+    
   data: {
     canIUse: wx.canIUse('button.open-type.getUserInfo')
   },

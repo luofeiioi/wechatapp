@@ -1,4 +1,4 @@
-// pages/two/two.js
+// pages/index/date/one.js
 Page({
 
   /**
@@ -64,11 +64,3 @@ Page({
   
   }
 })
-
-
-/**    {
-      "pagePath": "pages/two/two",
-      "text": "趋势",
-      "iconPath": "image/wechatHL.png",
-      "selectedIconPath": "image/wechatHL.png"
-    }, */

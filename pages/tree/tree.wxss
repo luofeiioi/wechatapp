@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+    background-color: #FBF9FE;
 }
 
 .userinfo-avatar {
@@ -17,4 +18,36 @@
 
 .usermotto {
   margin-top: 50px;
+}
+.index{
+    background-color: #FBF9FE;
+    font-family: -apple-system-font,Helvetica Neue,Helvetica,sans-serif;
+    flex: 1;
+    min-height: 100%;
+    font-size: 16px;
+}
+.head{
+    padding: 40px;
+}
+.body{
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow: hidden;
+}
+.title{
+    font-size: 30px;
+}
+.desc{
+    margin-top: 5px;
+    color: #888888;
+    font-size: 14px;
+}
+.widget__line{
+    content: " ";
+    position: absolute;
+    left: 20px;
+    bottom: 0;
+    right: 20px;
+    height: 1rpx;
+    background-color: #DFDFDF;
 }

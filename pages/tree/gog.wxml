@@ -1,6 +1,16 @@
-<view class="userinfo">
-<text>小程序制作:</text>
-<text>王晨羽</text>
-<text>梁瑞岿</text>
-<text>刘仕清</text>
+<view class="index">
+    <view class="head">
+        <view class="title">小程序制作:</view>
+        <view class="desc">王晨羽</view>
+        <view class="desc">梁瑞岿</view>
+        <view class="desc">刘仕清</view>
+    </view>
+    <view class="head">
+        <view class="title">项目开源:</view>
+        <view class="desc">https://github.com/luofeiioi/wechatapp</view>
+    </view>
+    <view class="head">
+        <view class="title">信息来源:</view>
+        <view class="desc">维基百科https://zh.wikipedia.org/</view>
+    </view>
 </view>
