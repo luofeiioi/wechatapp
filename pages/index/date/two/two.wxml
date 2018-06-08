@@ -2,5 +2,6 @@
     <view class="head">
         <view class="title">华清池</view>
         <view class="desc">华清池位于中华人民共和国陕西省西安临潼区骊山北麓，是唐代华清宫内的温泉浴池，以温泉和风景秀丽著称，更因唐玄宗和杨贵妃的爱情故事而著称于世。华清池是中国国家5A级旅游景区。景区内有唐代华清宫御汤遗址博物馆、西安事变旧址。现今华清池的多数亭台楼阁，多为1949年以来修建恢复的仿唐代建筑，现在的华清池坐落在唐代华清宫遗址上，只占盛唐时的一小部分。</view>
+        <view><canvas canvas-id="lineCanvas" disable-scroll="true" class="canvas" bindtouchstart="touchHandler"></canvas></view>
     </view>
 </view>

@@ -15,6 +15,21 @@
 <view id="itq" style="background: green; width: 60px; height: 20px; display: inline-block"></view>
 <view id="ioq" style="background: red; width: 60px; height: 20px; display: inline-block" ></view>
 </scroll-view>
+<swiper indicator-dots="true" autoplay="true" duration="1000" bindchange="listenSwiper" >
+<!--swiper-item只能包含一个节点再多会自动删除-->
+    <swiper-item>
+        <view style="height: 150px"><image src="/pages/image/bmy3.jpg" style="width:100%;height:100%">  
+</image></view>
+    </swiper-item>
+    <swiper-item>
+         <view style="height: 150px"><image src="/pages/image/bmy2.jpg" style="width:100%;height:100%">  
+</image></view>
+    </swiper-item>
+        <swiper-item>
+          <view style="height: 150px"><image src="/pages/image/bmy.jpg" style="width:100%;height:100%">  
+</image></view>
+    </swiper-item>    
+</swiper>
 <view class="index">
  <view class="body">
         <view class="widgets">

@@ -6,5 +6,7 @@
 骊山得名一说是因为其远望如黑色骏马；一说这里是商周时期骊戎国地。
 
 骊山是传说中女娲补天处，骊山西绣岭第二峰有老母殿，山下有温泉著称的华清池。</view>
-    </view>
+
+        <canvas canvas-id="lineCanvas" disable-scroll="true" class="canvas" bindtouchstart="touchHandler"></canvas>
+            </view>
 </view>
